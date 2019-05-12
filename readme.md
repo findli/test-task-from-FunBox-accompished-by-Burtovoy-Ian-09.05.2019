@@ -1,0 +1,1 @@
+curl -d '{"links":["http://asd.com", "http://asfds.ru"]}' -H "Content-Type: application/json" -X POST http://localhost:8080/visited_links
